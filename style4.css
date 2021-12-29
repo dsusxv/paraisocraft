@@ -1,0 +1,13 @@
+body{
+	background: black;
+}
+p{
+	color: red;
+	font-size: 30px;
+}
+button{
+	text-decoration: none;
+	color: red;
+	font-family: wingdings;
+	font-size: 69px;
+}

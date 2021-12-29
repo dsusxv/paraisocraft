@@ -1,0 +1,132 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+body{
+
+	background: whitesmoke;
+}
+
+header{
+	width: 75%;
+	height: 70px;
+	margin: auto;
+	position: relative;
+	background-color: #80fffe;
+}
+.container-header{
+	width: 100%;
+	max-width: 1200px;
+	position: relative;
+	margin: auto;
+}
+
+
+
+.logo-title{
+	display: flex;
+}
+
+.logo-title img{
+	width: 60px;
+	height: 60px;
+	margin-left: 10px;
+	margin-top: 5px;
+}
+.logo-title a{
+	position: absolute;
+	right: 50px;
+	text-decoration: none;
+	font-size: 20px;
+	color: #000000;
+	margin-top: 20px;
+	font-family: arial;
+	border: solid;
+	border-color: black;
+}
+.logo-title h3{
+	font-family: calibri;
+	font-size: 30px;
+	margin-left: 300px;
+	margin-top: 15px;
+	
+}
+.historia1{
+	margin-top: 85px;
+	margin-left: 50px;
+	border: solid;
+	border-color: black;
+	width: 720px;
+	height: 480;
+	padding: 25px;
+	background-color: #48b7b6;
+}
+.historia1 h1{
+	font-family: calibri;
+
+}
+.historia1 p{
+	font-size: 20px;
+	font-family: sans-serif;
+
+}
+.paraiso1{
+	margin-top: 85px;
+	margin-left: 50px;
+
+	border: solid;
+	border-color: black;
+	width: 720px;
+	height: 480;
+	padding: 25px;
+	background-color: #48b7b6;
+
+} .paraiso1 h1{
+	font-family: calibri;
+}.paraiso1 p{
+	font-size: 20px;
+	font-family: sans-serif;
+
+}.paraiso1 h2{
+	font-family: wingdings;
+	text-decoration: none;
+}
+.paraiso1 a{
+	text-decoration: 	none;
+	color: 	black	;
+}
+.ngolo{
+	float: 	right	;
+	margin-right:100px;
+	border: solid;
+	border-color:black;
+}
+.paraiso2{
+	margin-top: 85px;
+	margin-left: 50px;
+
+	border: solid;
+	border-color: black;
+	width: 720px;
+	height: 480;
+	padding: 25px;
+	background-color: #48b7b6;
+
+} 
+.paraiso2 h1{
+	font-family: calibri;
+}
+.paraiso2 p{
+	font-size: 20px;
+	font-family: sans-serif;
+
+}
+.paraiso2 h2{
+	font-family: wingdings;
+	text-decoration: none;
+}
+.paraiso2 a{
+	text-decoration: none;
+	color: 	black	;
+}

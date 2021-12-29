@@ -1,0 +1,20 @@
+.cuerpo{
+	background: 	gray	;
+}
+
+h1{
+	font-size: 	300px;
+	color: ghostwhite	;
+	border: solid	;
+	border-color: black	;
+	border-width: 10px;
+}
+
+a{
+
+	font-size: 	110px;
+	text-decoration: 	none;
+	color:white	;
+	border:solid;
+	border-color:white;
+}
